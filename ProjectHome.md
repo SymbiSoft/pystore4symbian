@@ -1,0 +1,1 @@
+PyStore is an alternative store like Cydia with only freeware apps,wallpapers, themes, fonts, patches
